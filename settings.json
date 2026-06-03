@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "School SMP BOT ridwan",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SchoolSmp_ORG.aternos.me",
+    "port": 55383,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
